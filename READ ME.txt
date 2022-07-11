@@ -1,0 +1,5 @@
+How to run program.py :
+-Import database db_jaagung.sql
+-Run program.py using the text editor you normally use (Example vscode, sublime, etc.)
+-Install all necessary packages for the application
+-Running program
